@@ -1,0 +1,16 @@
+.bottom-line{
+    border-bottom: 1px solid rgba(0,0,0,0.14);
+}
+
+.header{
+    color: #616161  ;
+    font-weight: 300;
+}
+
+.mr10{
+ margin-right: 10px;
+}
+
+.responsive-video{
+    max-width: 380px !important;
+}

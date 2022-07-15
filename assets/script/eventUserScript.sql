@@ -1,0 +1,1 @@
+CREATE TABLE `sistema_ci`.`event_interpreter` ( `id` INT NOT NULL AUTO_INCREMENT , `event_id` INT NOT NULL , `interpretor_user_id` INT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
